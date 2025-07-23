@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+matplotlib
+plotly
+sqlite3
+httpx
+# For LLM integration, choose one of the following (uncomment as needed):
+# openai
+# llama-cpp-python
+# gpt4all 
